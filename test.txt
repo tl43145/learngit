@@ -5,3 +5,5 @@ personA 本地通过feature2修改了这个文件@ 00:25
 personA 本地通过feature2修改了这个文件@ 00:33,准备将这个change推送到远端
 personA 本地通过feature2修改了这个文件@ 00:35,但是不准备将这个change推送到远端
 personA 本地通过feature2修改了这个文件@ 00:41,在feature3跟远端关联的情况下，准备将这个change推送到远端
+personA 本地通过feature2修改了这个文件@ 00:43,在feature3跟远端关联的情况下，但是不准备将这个change推送到远端
+
